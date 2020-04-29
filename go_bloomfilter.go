@@ -133,11 +133,3 @@ func (bitmap *Bitmap) String() string {
 	fmt.Printf("\nLength: %d\n", len(bitmap.set))
 	return str
 }
-
-func main() {
-	b := New()
-	b.AddString("qwer")
-	b.AddInt(1)
-	b.HasInt()
-	println(b.HasString("qwer"))
-}
