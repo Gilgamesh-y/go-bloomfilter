@@ -1,4 +1,4 @@
-module github.com/Gilgamesh-y/go_bloomfilter
+module github.com/Gilgamesh-y/go-bloomfilter
 
 go 1.12
 

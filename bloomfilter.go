@@ -1,4 +1,4 @@
-package go_bloomfilter
+package bloomfilter
 
 import (
 	"fmt"
